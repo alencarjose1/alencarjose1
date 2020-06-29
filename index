@@ -18,7 +18,6 @@
       position: 'fixed',
       width: '98%',
       height: '80%'
-
     }
   });
   callFrame.join({ url: 'https://alencar.daily.co/call_dos_zika' })
